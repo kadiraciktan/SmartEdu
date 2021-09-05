@@ -8,6 +8,7 @@
 - HTTP Status Code List : `https://developer.mozilla.org/en-US/docs/Web/HTTP/Status`
 - .gitignore Node       : `https://www.toptal.com/developers/gitignore/api/node`
 
+#  🧪  Projeyi Yaparken Bulduklarım : 
 ### IF STATEMENT BASIT KULLANIM SEKILLERI :
 ~~~javascript 
 // SWITCH KULLANABILIRSINIZ

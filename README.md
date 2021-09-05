@@ -1,3 +1,5 @@
+* [Çalışma Ortamı](#çalışma-ortamının-hazırlanması)
+* [Bulduklarım](#--projeyi-yaparken-bulduklar%C4%B1m-)
 ## Çalışma Ortamının Hazırlanması
 ~~~
   > npm init -y

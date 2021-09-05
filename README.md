@@ -7,8 +7,9 @@
 ~~~
 - HTTP Status Code List : `https://developer.mozilla.org/en-US/docs/Web/HTTP/Status`
 - .gitignore Node       : `https://www.toptal.com/developers/gitignore/api/node`
+
+### IF STATEMENT BASIT KULLANIM SEKILLERI :
 ~~~javascript 
-// Farklı Yollardan IF Alternatifleri  :
 // SWITCH KULLANABILIRSINIZ
 switch (status) {
   case 200:

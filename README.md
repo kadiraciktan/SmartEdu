@@ -2,12 +2,12 @@
 * [Bulduklarım](#--projeyi-yaparken-bulduklar%C4%B1m-)
 ## Çalışma Ortamının Hazırlanması
 ~~~
-  > npm init -y
-  > npm i express
-  > npm i -D nodemon
-  > npm i ejs
-  > npm i mongoose
-  > npm i slugify
+  > npm init -y     -> NPM Yükleme
+  > npm i express   -> Web Framework
+  > npm i -D nodemon-> HotReload Aracı
+  > npm i ejs       -> View Engine 
+  > npm i mongoose  -> ODM Aracı
+  > npm i slugify   -> localhost/id-yerine-adres "SLUG" için
 ~~~
 - HTTP Status Code List : `https://developer.mozilla.org/en-US/docs/Web/HTTP/Status`
 - .gitignore Node       : `https://www.toptal.com/developers/gitignore/api/node`

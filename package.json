@@ -4,7 +4,8 @@
   "description": "\"# SmartEdu\"",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -20,7 +21,8 @@
   "dependencies": {
     "ejs": "^3.1.6",
     "express": "^4.17.1",
-    "mongoose": "^6.0.4"
+    "mongoose": "^6.0.4",
+    "slugify": "^1.6.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.12"

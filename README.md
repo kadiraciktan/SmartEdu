@@ -8,7 +8,7 @@
   > npm i ejs       -> View Engine 
   > npm i mongoose  -> ODM Aracı
   > npm i slugify   -> localhost/id-yerine-adres "SLUG" için
-  > npm i bcrypt    -> 
+  > npm i bcrypt    -> Şifreleme Aracı
 ~~~
 - HTTP Status Code List : `https://developer.mozilla.org/en-US/docs/Web/HTTP/Status`
 - .gitignore Node       : `https://www.toptal.com/developers/gitignore/api/node`
